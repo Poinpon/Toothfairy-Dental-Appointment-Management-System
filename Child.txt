@@ -1,0 +1,3 @@
+Harry Hackel; 167384738438;8;12/7;2.00pm;150;300; Sherly Amelia; SJK(C) Chunghwa
+Ali bin Abu; 118937847374;13;13/7;3.00;200;120;Aisyah binti Muhammad;SMK Taman Selasih
+Maria Samantha binti Albert;090908139086;15;13/7;4.00pm;200;250;Rozianna Kubang; SMK Taman Selasih
