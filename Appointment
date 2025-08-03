@@ -1,0 +1,30 @@
+
+/**
+ * Write a description of class Appointment here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+public class Appointment
+{
+    private String date, time;
+    private double appCost, treatCost;
+    
+    public Appointment(String date, String time, double appCost, double treatCost)
+    {
+        this.date=date;
+        this.time=time;
+        this.appCost=appCost;
+        this.treatCost=treatCost;
+    }
+    
+    public void setDate(String date){this.date=date;}
+    public void setTime(String time){this.time=time;}
+    public void setAppCost(double appCost){this.appCost=appCost;}
+    public void setTreatCost(double treatCost){this.treatCost=treatCost;}
+    
+    public String getDate(){return date;}
+    public String getTime(){return time;}
+    public double getAppCost(){return appCost;}
+    public double getTreatCost(){return treatCost;}
+}
